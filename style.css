@@ -1,0 +1,30 @@
+
+
+
+.btn-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.h1-start{
+    text-align: center;
+    background-color: rgb(243, 188, 236);
+    width: 30%;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+button{
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.btn{
+    width: 150px;
+    background: linear-gradient(rgb(142, 142, 231), rgb(194, 33, 234));
+    color: #fff;
+    border-radius: 20px;
+    cursor: pointer;
+}
